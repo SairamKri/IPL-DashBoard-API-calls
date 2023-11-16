@@ -1,0 +1,39 @@
+.TeamMatches-main-container {
+  background-image: linear-gradient(to bottom, #d91c1f, #1e293b);
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.team-matches-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.team-banner-image {
+  width: 90%;
+  height: 300px;
+  border-radius: 12px;
+  margin-top: 35px;
+  margin-left: 28px;
+  margin-right: 28px;
+}
+
+.loader-spinner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.recent-matches-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 90%;
+}

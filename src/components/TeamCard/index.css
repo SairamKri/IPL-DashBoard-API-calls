@@ -1,0 +1,31 @@
+.displaying-eachIpl-Team {
+  list-style-type: none;
+  border: 1px solid #ffffff;
+  background-color: #ffffff33;
+  border-radius: 12px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+.each-iplTeam-image {
+  width: 80px;
+  margin-right: 12px;
+}
+
+.iplTeam-name {
+  font-family: 'Bree Serif';
+  font-size: 28px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.team-item-link {
+  text-decoration: none;
+  width: 45%;
+  align-self: flex-start;
+}

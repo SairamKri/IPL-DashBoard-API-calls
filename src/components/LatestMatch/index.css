@@ -1,0 +1,76 @@
+.latestMatch-container {
+  background-color: #1e293b;
+  border: 0px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  margin-top: 20px;
+  width: 90%;
+}
+
+.latest-match-heading {
+  font-family: 'Bree-Serif';
+  font-size: 12px;
+  color: #ffffff;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.first-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+  align-items: center;
+  justify-content: center;
+  width: 33%;
+}
+
+.team-name {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.date {
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.venue-name {
+  font-family: 'Bree Serif';
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.opposition-team-logo {
+  width: 33%;
+  margin-right: 15px;
+}
+
+.last-container {
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+  align-items: center;
+  justify-content: center;
+}
+
+.last-container-subHeading {
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.subHeading-value {
+  font-family: 'Bree Serif';
+  font-size: 13px;
+  font-weight: bold;
+  color: #ffffff;
+}
